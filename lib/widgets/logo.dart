@@ -13,7 +13,7 @@ class Logo extends StatelessWidget {
           Icon(
             Icons.star,
             color: Colors.purple[50],
-            size: 200,
+            size: 100,
           ),
           Text(
             'CALCULADORA IMC',
